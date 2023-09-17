@@ -114,9 +114,9 @@ You can create a file `_data/navigation.yml` to configure links to some pages. F
 
 ```yml
 - title: About
-  url: /about/
-- title: Blog
   url: /
+- title: Research
+  url: /research/
 
 ```
 
