@@ -3,7 +3,7 @@
   icon: fas fa-envelope
 - title: GoogleScholar
   url: https://scholar.google.com/citations?user=irqY7W4AAAAJ&hl=en&oi=sra
-  icon: fab fa-graduation-cap
+  icon: fas fa-graduation-cap
 - title: GitHub
   url: https://github.com/Je-yang98
   icon: fab fa-github
