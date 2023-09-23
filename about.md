@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: About
 ---
 I am a first year Ph.D. student in Computer Science at Columbia Univerisity and working with [System-Level Design (SLD) Group](https://sld.cs.columbia.edu/). My research interests include heterogeneous reconfigurable architecture/accelerators and hardware/software co-design approach for deep learning workloads.

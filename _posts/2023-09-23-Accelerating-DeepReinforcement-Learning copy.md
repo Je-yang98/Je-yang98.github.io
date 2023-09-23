@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Accelerating Deep Reinforcement Learning
+title: Accelerating Multi Neural Network
 date: 2023-09-23 23:18 -0400
 tags:
-- Deep Reinforcement Learning
-- FPGA Accelerator
+- Computer Vision Tasks
+- Multi Neural Network
+- ASIC Design
 ---
 
 __Reinforcement learning (RL)__ is a promising area of machine learning that studies how an agent should take actions in an environment in order to maximize a long-term cumulative reward. It aims to solve a complex decision-making problem in a setting where the agent constantly updates its action policy based on the reward feedback from the environment. Recently, deep reinforcement learning (DRL) that utilizes a deep neural network (DNN) for the action policy to train has been proposed and this deep learning approach becomes very popular like in other machine learning disciplines, as it observes widespread success in various applications such as robotics, indus- trial control, and game playing. 
