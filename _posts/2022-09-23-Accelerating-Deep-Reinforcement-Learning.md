@@ -8,7 +8,7 @@ tags:
 ---
 
 <p align="center">
-  <img width="600" height=150" src="../image/DRL.png">
+  <img width="600" height=150" src="DRL.png">
 </p>
 
 __Reinforcement learning (RL)__ is a promising area of machine learning that studies how an agent should take actions in an environment in order to maximize a long-term cumulative reward. It aims to solve a complex decision-making problem in a setting where the agent constantly updates its action policy based on the reward feedback from the environment. Recently, deep reinforcement learning (DRL) that utilizes a deep neural network (DNN) for the action policy to train has been proposed and this deep learning approach becomes very popular like in other machine learning disciplines, as it observes widespread success in various applications such as robotics, industrial control, and game playing.
@@ -19,7 +19,7 @@ FIXAR handles computationally expensive training process of DRL by employing fix
 
 
 <p align="center">
-  <img width="600" height=150" src="../image/MARL.png">
+  <img width="600" height=150" src="MARL.png">
 </p>
 
 ## [LearningGroup (ICFPT'22)](https://ieeexplore.ieee.org/abstract/document/9974543) 
