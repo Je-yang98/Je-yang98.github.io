@@ -26,7 +26,7 @@ Before joining SLD group, I received M.S. degree and B.S. degree in Electrical E
 
 ## Recognition
 ### Gold prize in 29th Samsung HumanTech Paper Award 
-- Feb 2023
+- Feb. 2023
 - 1st prize in Circuit Design Division, KRW 10M      
 
 ### National Full Scholarship, KAIST
