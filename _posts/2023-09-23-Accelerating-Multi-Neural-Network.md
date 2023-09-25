@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Accelerating Multi Neural Network
-date: 2023-09-23 23:18 -0400
 tags:
 - Computer Vision Tasks
 - Multi Neural Network
-- ASIC Design
+- ASIC Designl
+date: 2023-09-23 23:18 -0400
 ---
 
 __Metaverse__ is coming. Metaverse is a technological megatrend that aims to build an immersive virtual world facilitated by augmented and virtual reality along with internet technology. Metaverse can be realized through the  __multi-model multi-tasks (MMMT)__, combining various models such as object detection, face recognition and pose estimation as basic functionality, to provide complex applications. 
